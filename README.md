@@ -5,7 +5,7 @@ In this study, I propose a data mining approach to understand how different phys
 
 <div>
 
-<div style="text-align:center;color: #ccc;font-size:14px;">-------------End<i class="fa fa-paw"></i>Thanks for reading!-------------</div>
+<div style="text-align:center;color: #ccc;font-size:14px;">-------------End of the introduction. <i class="fa fa-paw"></i>Thanks for reading!-------------</div>
 
 </div>
 
